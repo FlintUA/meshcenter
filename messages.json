@@ -616,5 +616,12 @@
     "node_id": "!0a23be33",
     "text": "Ping 🏓 ICE 803 Berlin-Augsburg",
     "time": "20:45:41"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base",
+    "node_id": "!067a40fa",
+    "text": "Test",
+    "time": "07:35:21"
   }
 ]
